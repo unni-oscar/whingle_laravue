@@ -67,3 +67,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+https://codeburst.io/api-authentication-in-laravel-vue-spa-using-jwt-auth-d8251b3632e0
